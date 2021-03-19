@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="cardBackgroundColor">#673AB7</item>
+        <item name="textColor">#BFBF26</item>
+        <item name="backgroundColor">#FFC107</item>
+    </style>
+
+
+    <style name="darktheme" parent="Theme.AppCompat.Light">
+        <item name="cardBackgroundColor">#241343</item>
+        <item name="textColor">#83831A</item>
+        <item name="backgroundColor">#0B0801</item>
+    </style>
+
+</resources>
+
